@@ -13,7 +13,7 @@ I am a student pursuing B.Tech in Computer Science and Engineering. With a stron
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/kshitij-kashyap" target="_blank">
+  <a href="https://www.linkedin.com/in/kshitij-kashyap-133205264/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshitij kashyap" height="30" width="40" />
   </a>
   <a href="https://www.codechef.com/users/kshitij_7704" target="_blank">
