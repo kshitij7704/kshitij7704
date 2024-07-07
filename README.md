@@ -9,7 +9,7 @@ I am a student pursuing B.Tech in Computer Science and Engineering. With a stron
 - Email: kashyapkshitij7704@gmail.com
 
 ### 📄 My Resume
-- Know about my experiences [here](https://kshitij7704.github.io/Kshitij_Portfolio/assets/kshitij_resume.pdf)
+- Know about my experiences [here](https://kshitij7704.github.io/Kshitij_Portfolio/assets/Kshitij_Kashyap_Resume.pdf)
 
 ### 🌐 Connect with Me
 <p align="left">
