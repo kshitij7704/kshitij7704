@@ -3,7 +3,7 @@ I am a passionate and driven Computer Science & Engineering student currently pu
 <br/>
 What to know more about me? Check out my [Portfolio](https://kshitij7704.github.io/Kshitij_Portfolio/) and [Resume](https://kshitij7704.github.io/Kshitij_Portfolio/assets/Kshitij_Kashyap_Resume.pdf)
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kshitij-kashyap-133205264/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kashyapkshitij7704@gmail.com) 
 
 # 💻 Tech Stack:
