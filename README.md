@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a passionate and driven Computer Science & Engineering student currently pursuing my B.Tech. With a solid foundation in programming languages like C, C++, Java, and Python, I thrive on solving complex problems and exploring the exciting world of machine learning. I also love designing intuitive user interfaces and web pages to create seamless digital experiences.
 <br/>
-What to know more about me? Check out my [Portfolio](https://kshitij7704.github.io/Kshitij_Portfolio/) and [Resume](https://kshitij7704.github.io/Kshitij_Portfolio/assets/Kshitij_Kashyap_Resume.pdf)
+What to know more about me? Check out my [Portfolio](https://kshitij7704.github.io/Kshitij_Portfolio/) and [Resume](https://kshitij7704.github.io/Kshitij_Portfolio/assets/Kshitij-Kashyap-Resume.pdf)
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kshitij-kashyap-133205264/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kashyapkshitij7704@gmail.com) 
